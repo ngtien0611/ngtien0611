@@ -4,19 +4,14 @@
 
 <div align="center">
 
-
+# Hi there!
 <div align="center">
   <img src="./typing.svg" alt="Welcome to my GitHub" width="50%">
 </div>
-<div align="center">
 
-# Hi there!
-
-
-
+### 💻 IT Student | Aspiring Software Engineer
 
 </div>
-### 💻 IT Student | Aspiring Full-Stack Developer
 
 ### 💻 About Me
 
