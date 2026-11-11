@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 💻 IT Student | Aspiring Software Engineer
+## 💻 IT Student | Aspiring Software Engineer
 <div align="center">
   <img src="./typing.svg" alt="Welcome to my GitHub" width="50%">
 </div>
