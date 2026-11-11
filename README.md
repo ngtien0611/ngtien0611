@@ -12,11 +12,11 @@
 
 # Hi there!
 
-### 💻 IT Student | Aspiring Full-Stack Developer
 
 
 
 </div>
+### 💻 IT Student | Aspiring Full-Stack Developer
 
 ### 💻 About Me
 
