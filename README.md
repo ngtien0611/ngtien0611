@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner-tien.svg" alt="GitHub Banner" width="100%">
+</div>
 
-<!--
-**ngtien0611/ngtien0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 IT Student | Aspiring Data Analyst
+
+</div>
+
+## 👩‍💻 About Me
+
+- 🎓 Studying Information Technology at HUIT
+- 🚀 Interested in Full-Stack Development and AI
+- 💡 Passionate about building real-world applications
+- 🌐 Web, databases, operating systems, AI and .NET desktop apps
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="./stack.svg" alt="" width="100%">
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ngtien0611&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+</div>
