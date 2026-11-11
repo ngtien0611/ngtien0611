@@ -9,17 +9,16 @@
   <img src="./typing.svg" alt="Welcome to my GitHub" width="80%">
 </div>
 
-### 💻 IT Student | Aspiring Data Analyst
+### 💻 IT Student | Aspiring Software Engineer
 
 </div>
 
-## 👩‍💻 About Me
-### 🕵️‍♂️ About Me
+### 💻 About Me
 
-- 🎓 IT Student at HUIT pursuing a career in **Data Analytics**
-- 🔍 Passionate about discovering patterns, building interactive dashboards, and storytelling with data
-- 💻 Skilled in SQL, Python, Power BI, and Relational Databases
-- 🚀 Exploring Data Warehousing & Machine Learning applications for Analytics
+- 🎓 IT Student at HUIT passionate about **Software Engineering**[cite: 1]
+- ⚡ Strong foundation in Data Structures, Algorithms, Object-Oriented Programming (OOP), and Database Management[cite: 1]
+- 🌐 Experienced in building Desktop Applications (.NET) and Web APIs[cite: 1]
+- 🛠️ Tech Skills: C#, Python, SQL, Git & Web Technologies[cite: 1]
 
 ## 🛠️ Languages and Tools
 
