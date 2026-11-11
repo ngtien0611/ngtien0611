@@ -13,7 +13,7 @@
 
 </div>
 
-### 💻 About Me
+### 👩🏻‍💻 About Me
 
 - 🎓 IT Student at HUIT passionate about **Software Engineering**
 - ⚡ Strong foundation in Data Structures, Algorithms, Object-Oriented Programming (OOP), and Database Management
