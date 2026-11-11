@@ -15,10 +15,10 @@
 
 ### 💻 About Me
 
-- 🎓 IT Student at HUIT passionate about **Software Engineering**[cite: 1]
-- ⚡ Strong foundation in Data Structures, Algorithms, Object-Oriented Programming (OOP), and Database Management[cite: 1]
-- 🌐 Experienced in building Desktop Applications (.NET) and Web APIs[cite: 1]
-- 🛠️ Tech Skills: C#, Python, SQL, Git & Web Technologies[cite: 1]
+- 🎓 IT Student at HUIT passionate about **Software Engineering**
+- ⚡ Strong foundation in Data Structures, Algorithms, Object-Oriented Programming (OOP), and Database Management
+- 🌐 Experienced in building Desktop Applications (.NET) and Web APIs
+- 🛠️ Tech Skills: C#, Python, SQL, Git & Web Technologies
 
 ## 🛠️ Languages and Tools
 
