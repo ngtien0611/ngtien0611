@@ -5,6 +5,9 @@
 <div align="center">
 
 # Hi there!
+<div align="center">
+  <img src="./typing.svg" alt="Welcome to my GitHub" width="80%">
+</div>
 
 ### 💻 IT Student | Aspiring Data Analyst
 
