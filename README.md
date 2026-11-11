@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<div align="center">
-  <img src="./typing.svg" alt="Welcome to my GitHub" width="50%">
-</div>
 
 ## 💻 IT Student | Aspiring Software Engineer
 
+<div align="center">
+  <img src="./typing.svg" alt="Welcome to my GitHub" width="50%">
+</div>
 
 
 </div>
