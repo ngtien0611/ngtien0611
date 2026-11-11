@@ -11,11 +11,12 @@
 </div>
 
 ## 👩‍💻 About Me
+### 🕵️‍♂️ About Me
 
-- 🎓 Studying Information Technology at HUIT
-- 🚀 Interested in Full-Stack Development and AI
-- 💡 Passionate about building real-world applications
-- 🌐 Web, databases, operating systems, AI and .NET desktop apps
+- 🎓 IT Student at HUIT pursuing a career in **Data Analytics**
+- 🔍 Passionate about discovering patterns, building interactive dashboards, and storytelling with data
+- 💻 Skilled in SQL, Python, Power BI, and Relational Databases
+- 🚀 Exploring Data Warehousing & Machine Learning applications for Analytics
 
 ## 🛠️ Languages and Tools
 
