@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# Hi there!
+
 <div align="center">
-  <img src="./typing.svg" alt="Welcome to my GitHub" width="80%">
+  <img src="./typing.svg" alt="Welcome to my GitHub" width="50%">
 </div>
 
 ### 💻 IT Student | Aspiring Software Engineer
